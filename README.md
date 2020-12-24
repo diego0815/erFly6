@@ -1,4 +1,4 @@
-ErFly6 - project porting er9X for family of radio FlySky FS-i6, FS-i6x.
+ErFly6 - new (good forgeted old) project porting er9X for family of radio FlySky FS-i6, FS-i6x.
 Build firmware - Segger Embedded Sudio
 Flash firmware via J-Link (clone) or ST-Link (for FS-i6X).
 To build firmware install  https://www.segger.com/downloads/embedded-studio/
