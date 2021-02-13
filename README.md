@@ -1,3 +1,5 @@
+Cloned from KotelloRC's bitbucket: https://bitbucket.org/KotelloRC/erfly6.git for my reference
+
 ErFly6 - new (good forgeted old) project porting er9X for family of radio FlySky FS-i6, FS-i6x.
 Build firmware - Segger Embedded Sudio
 Flash firmware via J-Link (clone) or ST-Link (for FS-i6X).
